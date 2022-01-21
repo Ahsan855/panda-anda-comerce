@@ -1,0 +1,10 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.bg-info-panda{
+    background: #8fe4f585;
+}
+.highlight-color{
+    margin-top: 50px;
+    color:#ea6700 ;
+}
